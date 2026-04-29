@@ -6,7 +6,7 @@
 University of South Dakota, Vermillion, SD
 
 I build production SaaS applications using **NestJS, Node.js, TypeScript & PostgreSQL**.  
-**Open to Backend / AI Engineering roles starting June 2026 (OPT EAD)**
+**Open to Backend / AI Engineering roles starting July 2026**
 
 </div>
 
