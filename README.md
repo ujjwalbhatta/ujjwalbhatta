@@ -21,14 +21,6 @@ I build production SaaS applications using **NestJS, Node.js, TypeScript & Postg
 
 ---
 
-### 🔥 What I'm Working On
-
-- Led backend development for real-time SaaS platforms (visitor management & live auction systems)
-- Built **PlanMyPlate** — AI meal planner using multi-agent Claude (2nd Place, USD Ignite Hackathon)
-- Research on uncertainty-aware LLM-guided RL for sparse-reward environments
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
