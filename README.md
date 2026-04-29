@@ -3,16 +3,14 @@
 # Hi, I'm Ujjwal Bhatta 👋
 
 **Backend Engineer** • **MS Computer Science '26** (GPA 4.0)  
-University of South Dakota
+University of South Dakota, Vermillion, SD
 
-I build **production SaaS platforms** with **NestJS, Node.js, TypeScript & PostgreSQL**.  
-2+ years leading backend teams and shipping real-time systems (WebSockets, event-driven).  
+I ship **production SaaS** using **NestJS, Node.js, TypeScript & PostgreSQL**.  
+2+ years leading backend teams and building real-time systems.
 
-Currently researching **uncertainty-aware LLM-guided reinforcement learning** — paper accepted at **IEEE CAI 2026**.
+Currently researching **LLM-guided reinforcement learning** — paper accepted at **IEEE CAI 2026**.
 
-**Actively looking for full-time Backend / Full-Stack / AI Engineering roles starting June 2026.**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ujjwalbhatta&color=0066ff&style=flat-square)](https://github.com/ujjwalbhatta)
+**Open to Backend / AI Engineering roles starting June 2026 (OPT EAD)**
 
 </div>
 
@@ -21,20 +19,20 @@ Currently researching **uncertainty-aware LLM-guided reinforcement learning** �
 ### 🛠️ Tech Stack
 
 **Core:** TypeScript, Node.js, NestJS, PostgreSQL, Prisma  
-**Others:** FastAPI, Docker, AWS, Redis, WebSockets, Kafka, PyTorch, Claude API, RAG, Multi-Agent LLMs
+**Others:** FastAPI, Docker, AWS, Redis, WebSockets, Kafka, PyTorch, Claude API, RAG
 
 ---
 
-### 🔥 Highlights
+### 🔥 Key Highlights
 
-- **Led backend team of 3** at AITC International — built real-time visitor management & live auction SaaS (sub-200ms latency)
-- **2nd Place** — USD Ignite Hackathon: **PlanMyPlate** (AI multi-agent meal planner with Claude)
-- **IEEE CAI 2026** Accepted Paper: Uncertainty-Aware LLM-Guided RL (99.2% success rate in sparse-reward environments)
-- Reduced deployment time by **50%** and API response time by **40%** in production
+- Led backend team of 3 at AITC — built real-time visitor management & live auction SaaS (sub-200ms latency)
+- 2nd Place @ USD Ignite Hackathon: **PlanMyPlate** (AI multi-agent meal planner with Claude)
+- IEEE CAI 2026 Accepted Paper on uncertainty-aware LLM-guided RL
+- Cut deployment time by **50%** and API response time by **40%** in production
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -46,15 +44,11 @@ Currently researching **uncertainty-aware LLM-guided reinforcement learning** �
 
 ---
 
-### 📬 Get in Touch
+### 📬 Let's Connect
 
 - **Email**: ujjwalbhatta.89@gmail.com
 - **LinkedIn**: [linkedin.com/in/ujjwalbhatta](https://linkedin.com/in/ujjwalbhatta)
 - **Website**: [ujjwalbhatta.com.np](https://ujjwalbhatta.com.np)
-- **CV**: Available on my site
+- **CV**: On my website
 
-Open to conversations about backend systems, real-time apps, or LLM + RL work.
-
----
-
-*Based in Vermillion, SD*
+Based in Vermillion, SD — always happy to chat about backend systems or LLM + RL work.
